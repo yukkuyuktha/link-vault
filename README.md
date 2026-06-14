@@ -93,8 +93,8 @@ Visit **[yukkuyuktha.github.io/link-vault](https://yukkuyuktha.github.io/link-va
 
 ## 📸 Screenshot
 
-> Add a screenshot here after uploading:
-> 
+<img width="951" height="439" alt="Screenshot 2026-06-14 194221" src="https://github.com/user-attachments/assets/328ba836-d3c9-439f-863c-fbc893096bb6" />
+
 
 ---
 
